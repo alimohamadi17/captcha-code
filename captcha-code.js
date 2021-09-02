@@ -11,7 +11,7 @@ var randomText = "";
 var randomChars = "1234567890QWERTYUIOPASDFGHJKLZXCVBNM"
 
 //step two
-// for create 6 charset for code we need for loop
+// for create 6 charset for code we need for loop and function for event
 
 
 
@@ -26,7 +26,7 @@ function Ali() {
     randomText = ''
 
 }
-//step three
+
 
 
 
