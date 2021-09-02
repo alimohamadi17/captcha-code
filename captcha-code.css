@@ -1,0 +1,28 @@
+.container{
+    width: 50%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transform: translate(50%);
+    -webkit-box-shadow: 5px 6px 18px 4px rgba(0,0,0,0.91); 
+box-shadow: 5px 6px 18px 4px rgba(0,0,0,0.91);
+margin-top: 20px;
+border-radius: 12px;
+}
+
+h1,p,button{
+    margin: 20px;
+}
+
+button{
+    border: none;
+    background-color: rgb(104, 172, 231);
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 12px;
+    width: 50%;
+}
+p{
+    background-color: rgb(138, 243, 247);
+}
