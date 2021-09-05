@@ -23,7 +23,7 @@ function Ali() {
     }
 
     document.getElementById('content').innerHTML = randomText
-    randomText = ''
+    randomText = '';
 
 }
 
